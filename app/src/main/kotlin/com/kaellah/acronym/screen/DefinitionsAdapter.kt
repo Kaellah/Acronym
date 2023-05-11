@@ -7,7 +7,7 @@ import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.kaellah.acronym.screen.DefinitionsAdapter.ViewHolder
 import com.kaellah.acronym.screen.data.AcronymDefinitionViewState
-import com.kaellah.acronyme.databinding.ItemAcronymDefinitionBinding
+import com.kaellah.acronym.databinding.ItemAcronymDefinitionBinding
 
 /**
  * An intermediary between the data source and the UI implementation

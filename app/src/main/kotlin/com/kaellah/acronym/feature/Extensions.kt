@@ -1,5 +1,7 @@
 package com.kaellah.acronym.feature
 
+import com.kaellah.acronym.BuildConfig
+
 
 /**
  * Invokes appropriate code when it matches appropriate condition
